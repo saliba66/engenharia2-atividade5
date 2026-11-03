@@ -1,5 +1,5 @@
 # Histórias de usuário — NewsFlow
-Autor identificado: Gabriel Fonseca Saliba. A identificação do segundo integrante deve ser conferida antes da entrega.
+Autores: Gabriel Fonseca Saliba e João Vitor Martins e Lara.
 
 ## US01 — Aprovar edição com revisão independente
 **Como** revisora, **quero** avaliar a edição antes da distribuição, **para** impedir a circulação de conteúdo sem revisão.
@@ -62,4 +62,5 @@ São decisões explícitas desta solução, e não regras adicionais atribuídas
 - São necessários ao menos um segmento e uma edição aprovada para um disparo; o mínimo de um segmento explicita uma pré-condição operacional.
 - Identificadores de assinantes são únicos. A deduplicação usa esse identificador, não o nome de um segmento.
 - Não há projeto-base anexado ao enunciado. Implementa-se domínio próprio em memória, expressamente permitido na página 9.
+
 
