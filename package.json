@@ -1,0 +1,17 @@
+{
+  "name": "newsflow-bdd",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "cucumber-js",
+    "test:dry": "cucumber-js --dry-run --format summary",
+    "test:parallel": "cucumber-js --parallel 2 --format summary",
+    "test:random": "cucumber-js --order random:42 --format summary"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "12.2.0"
+  }
+}
