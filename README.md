@@ -1,6 +1,6 @@
 # NewsFlow — BDD com Cucumber.js
 
-**Gabriel Fonseca Saliba**  
+**Gabriel Fonseca Saliba e Joao vitor martins e lara**  
 Exercício “do Gherkin ao Cucumber” — testes de software.
 
 Quatro histórias completas, quatro arquivos Gherkin em português e implementação de domínio em memória.
@@ -51,12 +51,7 @@ npx cucumber-js --tags @smoke
 ```
 A execução paralela e em ordem aleatória verifica independência. Execute `npm test` por último para regenerar o relatório completo.
 
-## Entrega e dupla
-O enunciado pede um **repositório Git**, não somente um PDF ou ZIP.
-Este pacote contém os arquivos para esse repositório e exclui `node_modules`.
-Confira o nome do segundo integrante antes de entregar; não foi inventada uma participação.
-Sugestão de divisão: um integrante revisa histórias, prioridades e escopo; o outro revisa domínio e casos de borda; ambos fazem revisão cruzada.
-Essa divisão é proposta, não registro de colaboração realizada.
+
 
 ## Referências
 - Enunciado fornecido: `exercicio-newsflow.pdf`, páginas 2–10.
